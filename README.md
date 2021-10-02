@@ -1,8 +1,15 @@
 #  Demo For CS
-## Test files
 
-Work to be done
+## Test files to be added 
+- index.html
+- app.js
+- style.css
+
+## Work to be done
 
 - Add nav bar
-- Add some cool photos 
-- Make animated footer
+- Add carousel
+- Create Dummy About Section
+- Add some cool photos in gallery section
+- Make animated newsletter
+- Create awesome footer
